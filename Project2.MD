@@ -2,9 +2,7 @@
 
 *Step 1 – Installing the Nginx Web Serveri*
 
-
 `sudo apt update`
-
 
 ![atp-update](./images/apt-update.png)
 
@@ -21,7 +19,6 @@
 ![curl-http](./images/curl-http.png)
 
 `nginx website`
-
 
 ![nginx-website](./images/nginx-website.png)
 
